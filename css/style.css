@@ -8165,7 +8165,7 @@ h1, h2, h3, h4, h5,
   color: #b1b493 !important; }
 
 .ftco-navbar-light {
-  background-image: url('images/bg_1.png') !important;
+  background-image: url('../images/bg_1.png') !important;
 /*   background: transparent !important; */
   position: absolute;
   top: 0;

@@ -8165,7 +8165,8 @@ h1, h2, h3, h4, h5,
   color: #b1b493 !important; }
 
 .ftco-navbar-light {
-  background: transparent !important;
+/*  background: transparent !important;*/
+  background-image: url(../images/banner2.png);
   position: absolute;
   top: 0;
   left: 0;
@@ -8173,7 +8174,8 @@ h1, h2, h3, h4, h5,
   z-index: 3; }
   @media (max-width: 991.98px) {
     .ftco-navbar-light {
-      background: #000000 !important;
+/*      background: #000000 !important;*/
+      background-image: url(../images/banner2.png);
       position: relative;
       top: 0;
       padding-top: 0;
